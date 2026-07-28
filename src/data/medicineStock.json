@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "medicineName": "Dolo 650mg",
+    "brand": "Micro Labs",
+    "category": "Prescription Medicines",
+    "mrp": 34.20,
+    "availableQuantity": 150,
+    "expiry": "2027-12",
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "medicineName": "Clavam 625 Duo",
+    "brand": "Alkem Laboratories",
+    "category": "Prescription Medicines",
+    "mrp": 204.50,
+    "availableQuantity": 45,
+    "expiry": "2027-06",
+    "status": "Available"
+  },
+  {
+    "id": 3,
+    "medicineName": "Pan-D Capsule",
+    "brand": "Alkem Laboratories",
+    "category": "Prescription Medicines",
+    "mrp": 199.00,
+    "availableQuantity": 8,
+    "expiry": "2027-08",
+    "status": "Limited Stock"
+  },
+  {
+    "id": 4,
+    "medicineName": "Glycomet GP 1",
+    "brand": "USV Pvt Ltd",
+    "category": "Prescription Medicines",
+    "mrp": 115.00,
+    "availableQuantity": 90,
+    "expiry": "2027-10",
+    "status": "Available"
+  },
+  {
+    "id": 5,
+    "medicineName": "Lipvas 10mg",
+    "brand": "Cipla",
+    "category": "Prescription Medicines",
+    "mrp": 72.80,
+    "availableQuantity": 120,
+    "expiry": "2027-11",
+    "status": "Available"
+  },
+  {
+    "id": 6,
+    "medicineName": "Montair LC",
+    "brand": "Cipla",
+    "category": "Prescription Medicines",
+    "mrp": 210.00,
+    "availableQuantity": 0,
+    "expiry": "2027-04",
+    "status": "Out of Stock"
+  },
+  {
+    "id": 7,
+    "medicineName": "Zincovit Tablet",
+    "brand": "Apex Laboratories",
+    "category": "Supplements",
+    "mrp": 105.00,
+    "availableQuantity": 300,
+    "expiry": "2028-02",
+    "status": "Available"
+  },
+  {
+    "id": 8,
+    "medicineName": "Becosules Capsules",
+    "brand": "Pfizer",
+    "category": "Supplements",
+    "mrp": 50.15,
+    "availableQuantity": 180,
+    "expiry": "2028-01",
+    "status": "Available"
+  },
+  {
+    "id": 9,
+    "medicineName": "Volini Pain Relief Gel (50g)",
+    "brand": "Sun Pharma",
+    "category": "OTC Medicines",
+    "mrp": 145.00,
+    "availableQuantity": 50,
+    "expiry": "2027-09",
+    "status": "Available"
+  },
+  {
+    "id": 10,
+    "medicineName": "Dettol Liquid Antiseptic (500ml)",
+    "brand": "Reckitt Benckiser",
+    "category": "Personal Care",
+    "mrp": 220.00,
+    "availableQuantity": 60,
+    "expiry": "2028-05",
+    "status": "Available"
+  },
+  {
+    "id": 11,
+    "medicineName": "Himalaya Baby Powder (200g)",
+    "brand": "Himalaya Wellness",
+    "category": "Baby Care",
+    "mrp": 160.00,
+    "availableQuantity": 4,
+    "expiry": "2027-05",
+    "status": "Limited Stock"
+  },
+  {
+    "id": 12,
+    "medicineName": "Pampers Active Baby Diapers (M, 44)",
+    "brand": "Procter & Gamble",
+    "category": "Baby Care",
+    "mrp": 699.00,
+    "availableQuantity": 15,
+    "expiry": "2028-03",
+    "status": "Available"
+  },
+  {
+    "id": 13,
+    "medicineName": "Omron HEM-7120 BP Monitor",
+    "brand": "Omron Healthcare",
+    "category": "Health Devices",
+    "mrp": 2440.00,
+    "availableQuantity": 12,
+    "expiry": "N/A",
+    "status": "Available"
+  },
+  {
+    "id": 14,
+    "medicineName": "Accu-Chek Active Glucometer",
+    "brand": "Roche",
+    "category": "Health Devices",
+    "mrp": 1599.00,
+    "availableQuantity": 0,
+    "expiry": "N/A",
+    "status": "Out of Stock"
+  },
+  {
+    "id": 15,
+    "medicineName": "Crepe Bandage 10cm",
+    "brand": "Dynamic Techno",
+    "category": "Medical Equipment",
+    "mrp": 120.00,
+    "availableQuantity": 110,
+    "expiry": "2030-01",
+    "status": "Available"
+  },
+  {
+    "id": 16,
+    "medicineName": "Vicks Vaporub (50g)",
+    "brand": "Procter & Gamble",
+    "category": "OTC Medicines",
+    "mrp": 155.00,
+    "availableQuantity": 85,
+    "expiry": "2027-07",
+    "status": "Available"
+  },
+  {
+    "id": 17,
+    "medicineName": "Elora 10mg (Cetirizine)",
+    "brand": "Reddy's",
+    "category": "OTC Medicines",
+    "mrp": 18.50,
+    "availableQuantity": 200,
+    "expiry": "2027-10",
+    "status": "Available"
+  },
+  {
+    "id": 18,
+    "medicineName": "Asthalin Inhaler",
+    "brand": "Cipla",
+    "category": "Prescription Medicines",
+    "mrp": 147.20,
+    "availableQuantity": 25,
+    "expiry": "2027-03",
+    "status": "Available"
+  }
+]
