@@ -233,8 +233,8 @@ export default function Footer() {
               <div className="flex items-center space-x-2 pt-1">
                 <span className="w-2 h-2 bg-[#0A8F6A] rounded-full animate-pulse shrink-0"></span>
                 <p>
-                  &copy; {new Date().getFullYear()} Sai Medical Store, Gaya. {' '}
-                  <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>. All rights reserved.
+                  &copy; {new Date().getFullYear()} Sai Medical Store, . All rights reserved. {' '}
+                  <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
                 </p>
               </div>
             </div>
